@@ -1,0 +1,12 @@
+1 Chopard Male 2375.0 Low AutomaticWatches Community 
+2 Audemars Unisex 22500.0 High LuxuryWatches Company 
+3 Timex Male 4750.0 Low DiverWatches NoRecommendation 
+4 Gucci Female 9000.0 Medium Fashion Watches Company 
+5 Germin Unisex 4750.0 Low SportsWatches Company 
+6 Benson Male 31500.0 High SportsWatches Company 
+7 HarryWinston Male 27000.0 High LuxuryWatches Community 
+8 OmegaSpeedmaster Unisex 14250.0 Medium QuartzWatches NoRecommendation 
+9 GrandSeiko Male 6650.0 Medium QuartzWatches Company 
+10 SeikoWatches Male 1900.0 Low AutomaticWatches NoRecommendation 
+11 RadoWatches Female 950.0 Low AutomaticWatches Community 
+12 VacheronWatches Female 9500.0 Medium AutomaticWatches Community 
